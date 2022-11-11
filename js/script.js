@@ -110,7 +110,7 @@
   // Mobile nav
   var $container = $('#container'),
     isMobileNavAnim = false,
-    mobileNavAnimDuration = 200;
+    mobileNavAnimDuration = 205;
 
   var startMobileNavAnim = function(){
     isMobileNavAnim = true;
